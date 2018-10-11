@@ -63,4 +63,61 @@
 		"title": "Känner du någon som blivit sjuk och tappat sin yrkesroll?",
 		"category": "sponsored"
 	}
+
+
+
+
+	,
+	"17": {
+		"title": "Är det okej att aga barn, och i så fall, vilket tillhygge hade du valt?",
+		"category": "controversial"
+	},
+	"18": {
+		"title": "Är det okej att slå kvinnor?",
+		"category": "controversial"
+	},
+	"19": {
+		"title": "Är det okej att slå män?",
+		"category": "controversial"
+	},
+	"20": {
+		"title": "Är kvinnor sämre bilförare än män?",
+		"category": "controversial"
+	},
+	"21": {
+		"title": "Om du fick välja, skulle du elda upp en bibel eller en koran?",
+		"category": "controversial"
+	},
+	"22": {
+		"title": "Vill du ?",
+		"category": "controversial"
+	},
+	"23": {
+		"title": "Är det okej att slå barn?",
+		"category": "controversial"
+	},
+
+
+	"24": {
+		"title": "Lägger du hellre ett pussel eller kör ett korsord?",
+		"category": "funny"
+	},
+	"25": {
+		"title": "Vad skulle du välja, ha ett gosedjur eller ett riktigt djur?",
+		"category": "funny"
+	},
+
+
+	"26": {
+		"title": "Är det okej att äta djur som äter andra djur?",
+		"category": "food"
+	},
+	"27": {
+		"title": "Bästa dieten, LCHF, Vegansk, Vegeratian eller 'allätare'?",
+		"category": "food"
+	},
+	"28": {
+		"title": "Om du fick välja, äta en del av en tiger eller en söt liten hamster?",
+		"category": "food"
+	}
 }
